@@ -5,7 +5,7 @@
         "location": {
             "type": "string"
         },
-        "networkInterfaceName": {
+        "networkInterfaceName":{
             "type": "string"
         },
         "backendPoolId": {
